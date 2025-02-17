@@ -41,3 +41,8 @@ Descripción de las Columnas:
 - Owner_Count (Número de Dueños): Representa la cantidad de dueños anteriores que ha tenido el automóvil. Un menor número de dueños generalmente indica un precio más alto.
 
 - Price (Precio): Es el precio estimado de venta del automóvil. Este valor se calcula en función de varios factores, como el año de fabricación, el tamaño del motor, el kilometraje, el tipo de combustible y la transmisión.
+
+Documentos incluídos en el proyecto:
+- [Reporte en formato ipynb](./Car_Price_Prediction.ipynb)
+- [Reporte en formato html](./Car_Price_Prediction.html)
+- [Base de datos](./car_price_dataset.csv)
